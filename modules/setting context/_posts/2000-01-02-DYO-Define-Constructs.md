@@ -48,7 +48,7 @@ You will now individually brainstorm answers to the Focus Question. You will dra
 
 Here is an example of what your whiteboard will look like after this step (click image to zoom):
 
-![DYO%20What%20are%20you%20trying%20to%20measure/What_are_you_trying_to_measure__Whiteboard_Example(3).png](DYO%20What%20are%20you%20trying%20to%20measure/What_are_you_trying_to_measure__Whiteboard_Example(3).png)
+![Whiteboard Example](img/DefineConstruct1.png)
 
 We have included a [sample portrait of a learner](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO) as an example of district level values. You may substitute a similar framework from your school or district if it is available.
 
@@ -60,7 +60,7 @@ The number of ideas selected by each person may vary, but aim to have no more th
 
 In this step you will find the overlaps and similarities between the different ideas generated.
 
-1. Give the first item a symbol (✩, △, ≡, ♯, ○, etc.), write it next to it’s number. 
+1. Give the first item a symbol (✩, △, ≡, ♯, ○, etc.), write it next to it’s number.
 2. Ask if the 2nd item is the same or similar to the first. If it is, draw the same symbol. If not, write a different symbol beside it.
 3. Continue through the list, categorizing each with a symbol. Some items may have more than one symbol.
 4. Continue until all items have a symbol.
