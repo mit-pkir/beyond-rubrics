@@ -8,6 +8,9 @@ Many educators are drawn to making as a pedagogy because it allows students to d
 
 In this workshop, you’ll think more deeply about just one of the **constructs** (maker skill or disposition) you hope to support your students to develop. The clearer your understanding of a construct, the better you’ll be able to identify growth in students and support to students towards those goals.
 
+Here is an example of what your whiteboard will look like after this step:
+![Whiteboard Example](https://mit-pkir.github.io/beyond-rubrics/img/DefineConstruct3.png)
+
 ## **Before You Begin**
 
 - Collect The Following Materials
@@ -29,7 +32,7 @@ In this workshop, you’ll think more deeply about just one of the **constructs*
 
 Choose which construct your group will focus on. We recommend using **Collaboration** or **Problem Solving** for this exercise. On the top of your white board, the scribe should write the following Focus Question:
 
-**What does it look like to demonstrate [CONSTRUCT]?**
+<p style="text-align: center;"> **What does it look like to demonstrate [CONSTRUCT]?** </p>
 
 ## Warm-up
 
@@ -46,10 +49,6 @@ You will now individually brainstorm answers to the Focus Question. You will dra
 
 #### Tips
 
-  - Here is an example of what your whiteboard will look like after this step (click image to zoom):
-
-  ![Whiteboard Example](https://mit-pkir.github.io/beyond-rubrics/img/DefineConstruct1.png)
-
   - We have included a [sample portrait of a learner](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO) as an example of district level values. You may substitute a similar framework from your school or district if it is available.
 
   - Example: if the chosen construct was Agency, one of your answers might be “Setting your own goals.” or “Seeking out relevant resources to solve a problem.”
@@ -65,12 +64,6 @@ In this step you will find the overlaps and similarities between the different i
 3. Continue through the list, categorizing each with a symbol. Some items may have more than one symbol.
 4. Continue until all items have a symbol.
 
-#### Tips
-
-Here is an example of what your whiteboard will look like after this step (click image to zoom):
-
-![DYO%20What%20are%20you%20trying%20to%20measure/What_are_you_trying_to_measure__Whiteboard_Example(4).png](DYO%20What%20are%20you%20trying%20to%20measure/What_are_you_trying_to_measure__Whiteboard_Example(4).png)
-
 ## Name
 
 The names for each cluster should provide different answers to the focus question, and provide different ways a student might demonstrate the selected construct, or indicators of the construct. They should be specific, observable, and represent the ideas from your brainstormed list.
@@ -82,12 +75,6 @@ The names for each cluster should provide different answers to the focus questio
     - What is our insight, or answer to the focus question being pointed to by the ideas in the cluster?
 
     After you have come up with a name, be sure you have consensus or agreement from the group. If not, continue to rework the name of the cluster. If you have consensus, write the name next to the symbol. Continue until all clusters have a name.
-
-#### Tips
-
-Here is an example of what your whiteboard will look like after this step (click image to zoom):
-
-![DYO%20What%20are%20you%20trying%20to%20measure/What_are_you_trying_to_measure__Whiteboard_Example(5).png](DYO%20What%20are%20you%20trying%20to%20measure/What_are_you_trying_to_measure__Whiteboard_Example(5).png)
 
 ## Resolve
 
