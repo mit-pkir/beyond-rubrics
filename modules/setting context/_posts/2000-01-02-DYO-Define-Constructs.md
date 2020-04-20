@@ -48,7 +48,7 @@ You will now individually brainstorm answers to the Focus Question. You will dra
 
 Here is an example of what your whiteboard will look like after this step (click image to zoom):
 
-![Whiteboard Example](img/DefineConstruct1.png)
+![Whiteboard Example](https://mit-pkir.github.io/beyond-rubrics/img/DefineConstruct1.png)
 
 We have included a [sample portrait of a learner](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO) as an example of district level values. You may substitute a similar framework from your school or district if it is available.
 
