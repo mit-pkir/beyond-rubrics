@@ -1,8 +1,8 @@
-# DYO: What are you trying to measure?
+# Design Your Own: Defining Constructs
 
-- **Workshop Goals:**
-    - **Review what different frameworks say about a construct you value.**
-    - **Collaboratively define a construct you want to assess in your makerspace or classroom.**
+**Workshop Goals:**
+  - **Review what different frameworks say about a construct you value.**
+  - **Collaboratively define a construct you want to assess in your makerspace or classroom.**
 
 Many educators are drawn to making as a pedagogy because it allows students to develop many of the skills necessary to thrive in our rapidly changing world. You might already have a list of skills and mindsets you are trying to build in your program written up as a set of makerspace values, in your district’s portrait of a graduate, or in other sets of competencies. If you haven’t already, you can explore some of the resources linked to in the first section of this guide to help you articulate your maker program or classroom’s values and goals.
 
@@ -32,7 +32,7 @@ Here is an example of what your whiteboard will look like after this step:
 
 Choose which construct your group will focus on. We recommend using **Collaboration** or **Problem Solving** for this exercise. On the top of your white board, the scribe should write the following Focus Question:
 
-### What does it look like to demonstrate [CONSTRUCT]?
+**What does it look like to demonstrate [CONSTRUCT]?**
 
 ***
 
