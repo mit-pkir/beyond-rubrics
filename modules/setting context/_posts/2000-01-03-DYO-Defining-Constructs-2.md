@@ -1,5 +1,5 @@
 # Design Your Own: Defining Constructs
-## Activity Goals:
+#### Activity Goals:
 - *Review what different frameworks say about a construct you value.*
 - *Collaboratively define a construct you want to assess in your makerspace or classroom.*
 
@@ -12,17 +12,21 @@ In this workshop, you’ll think more deeply about just one of the constructs yo
 Here is an example of what your whiteboard will look like after this step:
 ![Whiteboard Example](https://playfulmit.github.io/beyond-rubrics/img/DefineConstruct3.png)
 
+***
+
 ## Before Gathering
-Choose which construct (maker skill or disposition) your group will focus on. *Participants will need to know the construct to review (We recommend using **Collaboration** or **Problem Solving** for this exercise.)*
+- Choose which construct (maker skill or disposition) your group will focus on. *Participants will need to know the construct to review (We recommend using **Collaboration** or **Problem Solving** for this exercise.)*
 
-Select an External Framework. *Each participant should select a different external framework. Participants should review the framework and write down notes on how the framework addresses the selected construct before the gathering.*
-- [CASEL SEL Competencies](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/CASEL-Competencies.pdf){:target="_blank"}
-- [Exploratorium Learning Dimensions of Making & Tinkering](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/Learning%20Dimensions%20Explained-July2017.pdf){:target="_blank"}
-- [Search Institute 40 Developmental Assets for Adolescents](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/Search%20Institute.pdf){:target="_blank"}
-- [Beyond Rubrics Maker Elements](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MakerElements_IndividualPosters-share.pdf){:target="_blank"}
-- *Note: You may choose to include any SEL or future ready skills frameworks used by your school or district in addition or instead of the included frameworks.*
+- Select an External Framework. *Each participant should select a different external framework. Participants should review the framework and write down notes on how the framework addresses the selected construct before the gathering.*
+  - [CASEL SEL Competencies](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/CASEL-Competencies.pdf){:target="_blank"}
+  - [Exploratorium Learning Dimensions of Making & Tinkering](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/Learning%20Dimensions%20Explained-July2017.pdf){:target="_blank"}
+  - [Search Institute 40 Developmental Assets for Adolescents](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/Search%20Institute.pdf){:target="_blank"}
+  - [Beyond Rubrics Maker Elements](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MakerElements_IndividualPosters-share.pdf){:target="_blank"}
+  - *Note: You may choose to include any SEL or future ready skills frameworks used by your school or district in addition or instead of the included frameworks.*
 
-Choose a Facilitator. *This protocol has more steps than other activities in the guide. It will be helpful for the facilitator to familiarize themself with the steps before the gathering.*
+- Choose a Facilitator. *This protocol has more steps than other activities in the guide. It will be helpful for the facilitator to familiarize themself with the steps before the gathering.*
+
+***
 
 ## Preparation for Facilitation
 - Collect The Following Materials:
@@ -37,11 +41,15 @@ Your school/district’s Graduate Profile or Profile of a Learner (optional, [fi
   - *Time-keeper:* Will keep time during Brainstorm and help Facilitator stay on track during Cluster, Name, and Resolve portions. Time estimates are given, but time will vary from group to group, and may take longer to reach consensus.
   - *Note-taker:* Will scribe on whiteboard or virtual collaboration space during Brainstorm share out, Cluster, and Naming. Start by
 
-On the top of your white board, the scribe should write the following Focus Question:
+- On the top of your white board, the scribe should write the following Focus Question:
 **What does it look like to demonstrate [CONSTRUCT]?**
+
+***
 
 ## Warm-up
 *Check in with your group* (5 min): Go around the circle and share a time that you have used the construct. What were you working on? What did it look like to use the construct?
+
+***
 
 ## Brainstorm
 You will now individually brainstorm answers to the Focus Question. You will draw ideas from three different sources: [1] Your own values as an educator and vision of student success, [2] Your school or district’s values and competencies, and [3] Outside frameworks and research.
