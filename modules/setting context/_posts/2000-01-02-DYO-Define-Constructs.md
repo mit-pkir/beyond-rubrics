@@ -24,15 +24,15 @@ Here is an example of what your whiteboard will look like after this step:
     - *Time-keeper*: Will keep time during *Brainstorm* and help Facilitator stay on track during Cluster, Name, and Resolve portions.
     - *Note-taker*: Will scribe on whiteboard or virtual collaboration space during Brainstorm share out, Cluster, and Naming. Start by
 - Select an External Framework. *Each participant should select one of the external frameworks to explore during the brainstorming section.*
-    - [CASEL SEL Competencies](https://drive.google.com/a/mit.edu/file/d/1OYkEf6LiW2Z_fj45YFGGi2DaSNpCYBZM/view?usp=sharing)
-    - [Exploratorium Learning Dimensions of Making & Tinkering](https://drive.google.com/open?id=1H7oZSdmecJ5uUiLqS9LPszr-O9xM7Uod)
-    - [Search Institute 40 Developmental Assets for Adolescents](https://drive.google.com/open?id=1FvFrjEb693YWoXcpuuvjtYW0wGrpzBqB)
-    - [Beyond Rubrics Maker Elements](https://drive.google.com/open?id=1uoopr53x_tf1v6Rasu-tXvXC9q974WJe)
+    - [CASEL SEL Competencies](https://drive.google.com/a/mit.edu/file/d/1OYkEf6LiW2Z_fj45YFGGi2DaSNpCYBZM/view?usp=sharing){:target="_blank"}
+    - [Exploratorium Learning Dimensions of Making & Tinkering](https://drive.google.com/open?id=1H7oZSdmecJ5uUiLqS9LPszr-O9xM7Uod){:target="_blank"}
+    - [Search Institute 40 Developmental Assets for Adolescents](https://drive.google.com/open?id=1FvFrjEb693YWoXcpuuvjtYW0wGrpzBqB){:target="_blank"}
+    - [Beyond Rubrics Maker Elements](https://drive.google.com/open?id=1uoopr53x_tf1v6Rasu-tXvXC9q974WJe){:target="_blank"}
     - *Note: You may choose to include any SEL or future ready skills frameworks used by your school or district in addition or instead of the included frameworks.*
 
 Choose which construct your group will focus on. We recommend using **Collaboration** or **Problem Solving** for this exercise. On the top of your white board, the scribe should write the following Focus Question:
 
-<p style="text-align: center;"> **What does it look like to demonstrate [CONSTRUCT]?** </p>
+### <p style="text-align: center;"> What does it look like to demonstrate [CONSTRUCT]? </p>
 
 ## Warm-up
 
@@ -49,7 +49,7 @@ You will now individually brainstorm answers to the Focus Question. You will dra
 
 #### Tips
 
-  - We have included a [sample portrait of a learner](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO) as an example of district level values. You may substitute a similar framework from your school or district if it is available.
+  - We have included a [sample portrait of a learner](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO){:target="_blank"} as an example of district level values. You may substitute a similar framework from your school or district if it is available.
 
   - Example: if the chosen construct was Agency, one of your answers might be “Setting your own goals.” or “Seeking out relevant resources to solve a problem.”
 
