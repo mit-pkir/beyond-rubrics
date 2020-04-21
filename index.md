@@ -10,4 +10,4 @@ This guide will introduce educators to the tools and design principles in the [B
 We look forward to seeing how you remix, adapt, and design new ways to better capture the learning in your classroom or program!
 
 Share your explorations with us!
-### [@playfulMIT](https://twitter.com/playfulMIT) | [@MakerEdOrg](https://twitter.com/MakerEdOrg) | #beyondrubrics
+### [@playfulMIT](https://twitter.com/playfulMIT)  |  [@MakerEdOrg](https://twitter.com/MakerEdOrg)  |  #beyondrubrics
