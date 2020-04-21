@@ -9,7 +9,7 @@ Many educators are drawn to making as a pedagogy because it allows students to d
 In this activity, you’ll think more deeply about just one of the **constructs** (maker skill or disposition) you hope to support your students to develop. The clearer your understanding of a construct, the better you’ll be able to identify growth in students and support to students towards those goals.
 
 Here is an example of what your whiteboard will look like after this step:
-![Whiteboard Example](https://mit-pkir.github.io/beyond-rubrics/img/DefineConstruct3.png)
+![Whiteboard Example](https://playfulMIT.github.io/beyond-rubrics/img/DefineConstruct3.png)
 
 ## **Before You Begin**
 
