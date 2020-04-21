@@ -11,7 +11,7 @@ Many educators are drawn to making as a pedagogy because it allows students to d
 In this activity, you’ll think more deeply about just one of the **constructs** (maker skill or disposition) you hope to support your students to develop. The clearer your understanding of a construct, the better you’ll be able to identify growth in students and support to students towards those goals.
 
 Here is an example of what your whiteboard will look like after this step:
-![Whiteboard Example](beyond-rubrics/img/DefineConstruct3.png)
+![Whiteboard Example](https://playfulmit.github.io/beyond-rubrics/img/DefineConstruct3.png)
 
 ## **Before You Begin**
 
@@ -20,16 +20,16 @@ Here is an example of what your whiteboard will look like after this step:
     - White board, flipchart, or shared virtual collaboration space
     - Printed versions of outside frameworks (optional)
     - Your maker program values (optional)
-    - Your school/district’s Graduate Profile or Profile of a Learner (optional, [find a sample here](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/MURSDProfile.png){:target="_blank"})
+    - Your school/district’s Graduate Profile or Profile of a Learner (optional, [find a sample here](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MURSDProfile.png){:target="_blank"})
 - Assign Roles
     - *Facilitator*: Will guide participants through the steps in the protocol.
     - *Time-keeper*: Will keep time during *Brainstorm* and help Facilitator stay on track during Cluster, Name, and Resolve portions.
     - *Note-taker*: Will scribe on whiteboard or virtual collaboration space during Brainstorm share out, Cluster, and Naming. Start by
 - Select an External Framework. *Each participant should select one of the external frameworks to explore during the brainstorming section.*
-    - [CASEL SEL Competencies](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/CASEL-Competencies.pdf){:target="_blank"}
-    - [Exploratorium Learning Dimensions of Making & Tinkering](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/Learning%20Dimensions%20Explained-July2017.pdf){:target="_blank"}
-    - [Search Institute 40 Developmental Assets for Adolescents](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/Search%20Institute.pdf){:target="_blank"}
-    - [Beyond Rubrics Maker Elements](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/MakerElements_IndividualPosters-share.pdf){:target="_blank"}
+    - [CASEL SEL Competencies](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/CASEL-Competencies.pdf){:target="_blank"}
+    - [Exploratorium Learning Dimensions of Making & Tinkering](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/Learning%20Dimensions%20Explained-July2017.pdf){:target="_blank"}
+    - [Search Institute 40 Developmental Assets for Adolescents](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/Search%20Institute.pdf){:target="_blank"}
+    - [Beyond Rubrics Maker Elements](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MakerElements_IndividualPosters-share.pdf){:target="_blank"}
     - *Note: You may choose to include any SEL or future ready skills frameworks used by your school or district in addition or instead of the included frameworks.*
 
 Choose which construct your group will focus on. We recommend using **Collaboration** or **Problem Solving** for this exercise. On the top of your white board, the scribe should write the following Focus Question:
@@ -55,7 +55,7 @@ You will now individually brainstorm answers to the Focus Question. You will dra
 
 #### Tips
 
-  - We have included a [sample portrait of a learner](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO){:target="_blank"} as an example of district level values. You may substitute a similar framework from your school or district if it is available.
+  - We have included a [sample portrait of a learner](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MURSDProfile.png){:target="_blank"} as an example of district level values. You may substitute a similar framework from your school or district if it is available.
 
   - Example: if the chosen construct was Agency, one of your answers might be “Setting your own goals.” or “Seeking out relevant resources to solve a problem.”
 
