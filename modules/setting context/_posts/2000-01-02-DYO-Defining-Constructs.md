@@ -1,4 +1,5 @@
 # Design Your Own: Defining Constructs
+
 #### Activity Goals:
 - *Review what different frameworks say about a construct you value.*
 - *Collaboratively define a construct you want to assess in your makerspace or classroom.*
