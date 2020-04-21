@@ -10,7 +10,7 @@ Many educators are drawn to making as a pedagogy because it allows students to d
 
 In this activity, you’ll think more deeply about just one of the **constructs** (maker skill or disposition) you hope to support your students to develop. The clearer your understanding of a construct, the better you’ll be able to identify growth in students and support to students towards those goals.
 
-Here is an example of what your whiteboard will look like after this step TEST:
+Here is an example of what your whiteboard will look like after this step:
 ![Whiteboard Example](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/img/DefineConstruct3.png)
 
 ## **Before You Begin**
@@ -20,7 +20,7 @@ Here is an example of what your whiteboard will look like after this step TEST:
     - White board, flipchart, or shared virtual collaboration space
     - Printed versions of outside frameworks (optional)
     - Your maker program values (optional)
-    - Your school/district’s Graduate Profile or Profile of a Learner (optional, [find a sample here](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO){:target="_blank"})
+    - Your school/district’s Graduate Profile or Profile of a Learner (optional, [find a sample here](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/MURSDProfile.png){:target="_blank"})
 - Assign Roles
     - *Facilitator*: Will guide participants through the steps in the protocol.
     - *Time-keeper*: Will keep time during *Brainstorm* and help Facilitator stay on track during Cluster, Name, and Resolve portions.
