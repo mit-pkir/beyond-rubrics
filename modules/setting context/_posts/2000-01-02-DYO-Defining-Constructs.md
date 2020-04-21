@@ -18,7 +18,7 @@ Here is an example of what your whiteboard will look like after this step:
     - White board, flipchart, or shared virtual collaboration space
     - Printed versions of outside frameworks (optional)
     - Your maker program values (optional)
-    - Your school/district’s Graduate Profile or Profile of a Learner (optional, sample included)
+    - Your school/district’s Graduate Profile or Profile of a Learner (optional, [find a sample here](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO){:target="_blank"})
 - Assign Roles
     - *Facilitator*: Will guide participants through the steps in the protocol.
     - *Time-keeper*: Will keep time during *Brainstorm* and help Facilitator stay on track during Cluster, Name, and Resolve portions.
