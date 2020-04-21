@@ -1,8 +1,8 @@
 # Design Your Own: Defining Constructs
 
 **Workshop Goals:**
-  - **Review what different frameworks say about a construct you value.**
-  - **Collaboratively define a construct you want to assess in your makerspace or classroom.**
+  - *Review what different frameworks say about a construct you value.*
+  - *Collaboratively define a construct you want to assess in your makerspace or classroom.*
 
 Many educators are drawn to making as a pedagogy because it allows students to develop many of the skills necessary to thrive in our rapidly changing world. You might already have a list of skills and mindsets you are trying to build in your program written up as a set of makerspace values, in your district’s portrait of a graduate, or in other sets of competencies. If you haven’t already, you can explore some of the resources linked to in the first section of this guide to help you articulate your maker program or classroom’s values and goals.
 
