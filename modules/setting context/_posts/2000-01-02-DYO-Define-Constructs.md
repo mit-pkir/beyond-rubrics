@@ -32,11 +32,15 @@ Here is an example of what your whiteboard will look like after this step:
 
 Choose which construct your group will focus on. We recommend using **Collaboration** or **Problem Solving** for this exercise. On the top of your white board, the scribe should write the following Focus Question:
 
-### <p style="text-align: center;"> What does it look like to demonstrate [CONSTRUCT]? </p>
+### What does it look like to demonstrate [CONSTRUCT]?
+
+***
 
 ## Warm-up
 
 Go around the circle and share a time that you have used the construct. What were you working on? What did it look like to use the construct?
+
+***
 
 ## Brainstorm
 
@@ -55,6 +59,8 @@ You will now individually brainstorm answers to the Focus Question. You will dra
 
   - The number of ideas selected by each person may vary, but aim to have no more than 20 items across your entire group. For example, if you have 4 people, aim for ~4-6 ideas per person.
 
+***
+
 ## Cluster
 
 In this step you will find the overlaps and similarities between the different ideas generated.
@@ -63,6 +69,8 @@ In this step you will find the overlaps and similarities between the different i
 2. Ask if the 2nd item is the same or similar to the first. If it is, draw the same symbol. If not, write a different symbol beside it.
 3. Continue through the list, categorizing each with a symbol. Some items may have more than one symbol.
 4. Continue until all items have a symbol.
+
+***
 
 ## Name
 
@@ -76,6 +84,8 @@ The names for each cluster should provide different answers to the focus questio
 
     After you have come up with a name, be sure you have consensus or agreement from the group. If not, continue to rework the name of the cluster. If you have consensus, write the name next to the symbol. Continue until all clusters have a name.
 
+***
+
 ## Resolve
 
 Review and reflect on your work.
@@ -85,6 +95,8 @@ Review and reflect on your work.
     - What on the list are you most excited about or intrigued by? Are you uneasy or uncomfortable about anything on the list?
     - What new insights do you have about the selected construct? Has anything been left out?
 3. Determine next steps. See suggestions below.
+
+***
 
 ## Next Steps
 
