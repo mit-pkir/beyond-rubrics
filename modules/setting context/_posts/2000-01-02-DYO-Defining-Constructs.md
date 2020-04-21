@@ -1,12 +1,12 @@
 # Design Your Own: Defining Constructs
 
-**Workshop Goals:**
+**Activity Goals:**
   - *Review what different frameworks say about a construct you value.*
   - *Collaboratively define a construct you want to assess in your makerspace or classroom.*
 
 Many educators are drawn to making as a pedagogy because it allows students to develop many of the skills necessary to thrive in our rapidly changing world. You might already have a list of skills and mindsets you are trying to build in your program written up as a set of makerspace values, in your district’s portrait of a graduate, or in other sets of competencies. If you haven’t already, you can explore some of the resources linked to in the first section of this guide to help you articulate your maker program or classroom’s values and goals.
 
-In this workshop, you’ll think more deeply about just one of the **constructs** (maker skill or disposition) you hope to support your students to develop. The clearer your understanding of a construct, the better you’ll be able to identify growth in students and support to students towards those goals.
+In this activity, you’ll think more deeply about just one of the **constructs** (maker skill or disposition) you hope to support your students to develop. The clearer your understanding of a construct, the better you’ll be able to identify growth in students and support to students towards those goals.
 
 Here is an example of what your whiteboard will look like after this step:
 ![Whiteboard Example](https://mit-pkir.github.io/beyond-rubrics/img/DefineConstruct3.png)
