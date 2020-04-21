@@ -95,10 +95,13 @@ Review and reflect on your work. (5-10 min)
   - What new insights do you have about the selected construct? Has anything been left out?
 3. Determine next steps. See suggestions below.
 
+***
+
+## Next Steps
 There are a number of next steps you might take to continue to build your team's shared understanding of the construct and the individual indicators.
-Draw snapshots, or frames from a comic strip of what it would look like if a student was demonstrating one of the items on your list. Compare the drawings with your colleagues to see similarities and differences in your understanding.
-Share your results with students. Ask them to draw a picture of what it might look like if they were doing one of the things on your final list. Ask them what on the list excites them or makes them uneasy. Ask them if anything is missing.
-Share your results with other stakeholders (your principal, parents, or others) to get feedback.
+- Draw snapshots, or frames from a comic strip of what it would look like if a student was demonstrating one of the items on your list. Compare the drawings with your colleagues to see similarities and differences in your understanding.
+- Share your results with students. Ask them to draw a picture of what it might look like if they were doing one of the things on your final list. Ask them what on the list excites them or makes them uneasy. Ask them if anything is missing.
+- Share your results with other stakeholders (your principal, parents, or others) to get feedback.
 You’ll also want to set aside time to come to consensus on each of the skills or mindsets you want to assess. You can use this protocol, but you may need to extend some of the times for Clustering & Naming. We recommend starting with a small set (2-3) to begin, and add more as you get more comfortable with noticing and assessing skills in your makerspace or classroom.
 
 *This protocol was adapted from the [ToP Consensus Workshop Process](http://www.ica-international.org/top-facilitation/){:target="_blank"} from ICA International.*
