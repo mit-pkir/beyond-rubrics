@@ -11,7 +11,7 @@ Many educators are drawn to making as a pedagogy because it allows students to d
 In this activity, you’ll think more deeply about just one of the **constructs** (maker skill or disposition) you hope to support your students to develop. The clearer your understanding of a construct, the better you’ll be able to identify growth in students and support to students towards those goals.
 
 Here is an example of what your whiteboard will look like after this step TEST:
-![Whiteboard Example](/Users/peterkirschmann/Documents/GitHub/course-in-a-box/img/DefineConstruct3.png)
+![Whiteboard Example](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/img/DefineConstruct3.png)
 
 ## **Before You Begin**
 
@@ -26,10 +26,10 @@ Here is an example of what your whiteboard will look like after this step TEST:
     - *Time-keeper*: Will keep time during *Brainstorm* and help Facilitator stay on track during Cluster, Name, and Resolve portions.
     - *Note-taker*: Will scribe on whiteboard or virtual collaboration space during Brainstorm share out, Cluster, and Naming. Start by
 - Select an External Framework. *Each participant should select one of the external frameworks to explore during the brainstorming section.*
-    - [CASEL SEL Competencies](https://drive.google.com/a/mit.edu/file/d/1OYkEf6LiW2Z_fj45YFGGi2DaSNpCYBZM/view?usp=sharing){:target="_blank"}
-    - [Exploratorium Learning Dimensions of Making & Tinkering](https://drive.google.com/open?id=1H7oZSdmecJ5uUiLqS9LPszr-O9xM7Uod){:target="_blank"}
-    - [Search Institute 40 Developmental Assets for Adolescents](https://drive.google.com/open?id=1FvFrjEb693YWoXcpuuvjtYW0wGrpzBqB){:target="_blank"}
-    - [Beyond Rubrics Maker Elements](https://drive.google.com/open?id=1uoopr53x_tf1v6Rasu-tXvXC9q974WJe){:target="_blank"}
+    - [CASEL SEL Competencies](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/CASEL-Competencies.pdf){:target="_blank"}
+    - [Exploratorium Learning Dimensions of Making & Tinkering](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/Learning%20Dimensions%20Explained-July2017.pdf){:target="_blank"}
+    - [Search Institute 40 Developmental Assets for Adolescents](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/Search%20Institute.pdf){:target="_blank"}
+    - [Beyond Rubrics Maker Elements](https://github.com/playfulMIT/beyond-rubrics/blob/gh-pages/modules/setting%20context/resources/MakerElements_IndividualPosters-share.pdf){:target="_blank"}
     - *Note: You may choose to include any SEL or future ready skills frameworks used by your school or district in addition or instead of the included frameworks.*
 
 Choose which construct your group will focus on. We recommend using **Collaboration** or **Problem Solving** for this exercise. On the top of your white board, the scribe should write the following Focus Question:
