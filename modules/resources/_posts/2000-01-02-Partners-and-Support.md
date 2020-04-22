@@ -7,7 +7,7 @@
 
 
 
-![MakerEd](https://playfulmit.github.io/beyond-rubrics/img/makered-logo-sm.png)
+![MakerEd](https://playfulmit.github.io/beyond-rubrics/img/makered-logo.png)
 
 [**MakerEd**](http://www.makered.org){:target="_blank"}: The mission of Maker Ed is to harness the potential of making to transform teaching and learning. To achieve this, the organization provides training, support, and resources to individuals, institutions and communities who are integrating maker education into their learning environments. With more than 5 years of work in the relatively young field of maker education, Maker Ed aggregates and shares examples of making in action in order to validate, elevate, and amplify work on the ground, representing work across the country in both formal and informal educational settings, in rural and urban communities alike, and at three different levels: the field and movement, pedagogy and practice, and of learner outcomes.
 
