@@ -1,7 +1,7 @@
 ## Partner Organizations
 
 
-![MIT Playful Journey Lab](https://playfulmit.github.io/beyond-rubrics/img/pjl-logo-w.png)
+![MIT Playful Journey Lab](https://playfulmit.github.io/beyond-rubrics/img/pjl-logo.png)
 
 [**MIT Playful Journey Lab**](http://playful.mit.edu/){:target="_blank"}: The MIT Playful Journey Lab, made up of researchers and designers with a passion for playful assessment and learning, is embarking on a journey to develop emerging technologies as well as non-digital tools to better understand, design, and use innovative approaches that will prepare individuals to participate in 21st century economies. The lab is founded on the belief that these technologies and approaches, supported by research-backed playful learning and assessment practices, are an important tool for empowering learners, and are necessary for designing a lifelong and lifewide education system that prepares individuals to learn throughout their lives — across school, work and interest-driven contexts.
 
