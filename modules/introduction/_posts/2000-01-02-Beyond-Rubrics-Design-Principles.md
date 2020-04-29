@@ -1,31 +1,32 @@
 # Beyond Rubrics Design Principles
 
-### Key Questions:
+**Key Questions:**
   - *What does good assessment look like?*
-Activity Duration: 1 hour
+
+**Activity Duration:** 1 hour
 
 We often start workshops or conference presentations by giving participants the opportunity to reflect on the question “What is Assessment?” It can be a term loaded with emotions and anxiety. In our work, we see assessment as ongoing, engaging, continuous, and seamlessly woven into a culture of learning. Good assessment processes make the learning process visible to educators and learners so that they may give better feedback, set ambitious learning goals, and communicate their learning with others.
 This activity will introduce you to the design principles that we used in the creation of the Beyond Rubrics tool kit, and that you might use to adapt, remix, or design your own.
 
 ***
 
-##Before You Begin:
-###Collect the following materials:
+## Before You Begin:
+### Collect the following materials:
 - A journal or paper and pen to capture reflections.
 - Printed or digital copies of the design principles, one set per participant.
 
-###Assign roles:
+### Assign roles:
 - *Facilitator:* Will guide participants through the steps in the process.
 - *Time-keeper:* Will keep track of time for each step in the process.
 
-##Exploring the Design Principles
-###Warm-up (10 min)
+## Exploring the Design Principles
+### Warm-up (10 min)
 1. Individually, take a moment to reflect on the following questions:
   - What is assessment?
   - What did assessment mean to you as a K-12 student?
 2. Share your reflections in the group.
 
-###Assessment Design Principles Jigsaw
+### Assessment Design Principles Jigsaw
 1. Watch the following video as a group:
 
 **VIDEO HERE**
