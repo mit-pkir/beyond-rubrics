@@ -1,6 +1,7 @@
 # Try the Toolkit: Superpower Hour
 **Guiding Questions:**
  - How do we build a shared understanding of the constructs we care about in our learning community?
+
 **Activity Duration:** 1 hour
 
 Superpower Hour is an activity aimed to help classes build a collective understanding of the Maker Elements and practice identifying them by learning about real inventors. It helps show students why the Maker Elements are something they should care about, and how real people use them as skills to do important work. Over time you will build your skills around including students in the maker assessment process, and Superpower Hour can be one of the first steps of building a shared understanding of the Maker Elements in your learning community.
@@ -47,5 +48,5 @@ For this activity, we will focus on two Maker Elements:
 
 ### Next Steps
 1. Pick a skill or mindset that you hope to develop through your makerspace or maker centered classroom. It may be one of the Maker Elements from the Beyond Rubrics Toolkit, something from your district’s graduate profile, or vision of your maker program.
-2. Facilitate Superpower Hour with your students. You can find additional inventor stories in the Beyond Rubrics tool kit or curate your own set of local or global STEAM superheros that your students will connect with.
+2. Facilitate Superpower Hour with your students. You can find additional inventor stories in the Beyond Rubrics tool kit or curate your own set of local or global STEAM superheroes that your students will connect with.
 3. When you next meet with this group, discuss how the activity went with your students.
