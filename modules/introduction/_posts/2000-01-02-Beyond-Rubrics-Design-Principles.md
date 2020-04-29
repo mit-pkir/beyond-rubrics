@@ -50,4 +50,4 @@ This activity will introduce you to the design principles that we used in the cr
 ## Next Steps
 Make a plan to implement your “Monday” from the closing reflection!
 
-To dive deeper into principles of good assessment, you can explore this introduction to [Evidence Centered Design](https://circlcenter.org/evidence-centered-design/) from the Center for Innovative Research in Cyberlearning.
+To dive deeper into principles of good assessment, you can explore this introduction to [Evidence Centered Design](https://circlcenter.org/evidence-centered-design/){:target="_blank"} from the Center for Innovative Research in Cyberlearning.
