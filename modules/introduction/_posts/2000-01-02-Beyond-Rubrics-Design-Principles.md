@@ -1,7 +1,7 @@
 # Beyond Rubrics Design Principles
 
 **Key Questions:**
-  - *What does good assessment look like?*
+ - *What does good assessment look like?*
 
 **Activity Duration:** 1 hour
 
@@ -10,7 +10,7 @@ This activity will introduce you to the design principles that we used in the cr
 
 ***
 
-### Before You Begin:
+### Before You Begin
 **Collect the following materials:**
 - A journal or paper and pen to capture reflections.
 - Printed or digital copies of the design principles, one set per participant.
@@ -19,7 +19,7 @@ This activity will introduce you to the design principles that we used in the cr
 - *Facilitator:* Will guide participants through the steps in the process.
 - *Time-keeper:* Will keep track of time for each step in the process.
 
-### Exploring the Design Principles
+### Facilitation Guide
 **Warm-up** *(10 min)*
 1. Individually, take a moment to reflect on the following questions:
   - What is assessment?
