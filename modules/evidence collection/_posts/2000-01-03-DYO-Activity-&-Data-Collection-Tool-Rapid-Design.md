@@ -1,1 +1,1 @@
-# Design Your Own: Activity & Data Collection Tool Rapid Design
+# Design Your Own: Rapid Design
