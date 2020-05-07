@@ -49,7 +49,7 @@ $link-hover-color:      $link-color;
 //## Font, line-height, and color for body text, headings, and more.
 
 $font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif:       Georgia, "Times New Roman", Times, serif;
+$font-family-serif:       Righteous, Georgia, "Times New Roman", Times, serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
 $font-family-base:        $font-family-sans-serif;
@@ -71,7 +71,7 @@ $line-height-base:        1.428571429; // 20/14
 $line-height-computed:    floor(($font-size-base * $line-height-base)); // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    "Arvo", Helvetica, Arial, sans-serif;
+$headings-font-family:    "Righteous", Helvetica, Arial, sans-serif;
 $headings-font-weight:    400;
 $headings-line-height:    1.1;
 $headings-color:          inherit;
@@ -852,5 +852,3 @@ $page-header-border-color:    transparent;
 $dl-horizontal-offset:        $component-offset-horizontal;
 //** Horizontal line color.
 $hr-border:                   $gray-lighter;
-
-
