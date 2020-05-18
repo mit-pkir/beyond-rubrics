@@ -16,7 +16,7 @@ This activity will introduce you to the design principles that we used in the cr
 ### Before You Begin
 **Collect the following materials:**
 - A journal or paper and pen to capture reflections
-- [Beyond Rubrics Design Principles](modules/introduction/resources/BRDesignPrinciples.pdf){:target="_blank"} (Printed or digital copies, one set per participant)
+- [Beyond Rubrics Design Principles](https://playfulmit.github.io/beyond-rubrics/modules/introduction/resources/BRDesignPrinciples.pdf){:target="_blank"} (Printed or digital copies, one set per participant)
 
 **Assign roles:**
 - *Facilitator:* Will guide participants through the steps in the process.
