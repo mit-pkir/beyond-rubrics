@@ -1,6 +1,5 @@
 # Section 2: Evidence Collection
 
-
 Now that you have spent time exploring what it is you really hope to support in your learning community, through the Maker Elements or constructs you have defined on your own, it is time to think about how you might capture evidence of your constructs.
 Creating opportunities for students to demonstrate the constructs and designing mechanisms to capture this evidence are two separate design processes that are very interconnected. The activities in this guide, and in the Beyond Rubrics Toolkit, will focus primarily on adapting and remixing tools to document and capture evidence of the making process. For inspiration on maker activities you may incorporate into your maker-centered classroom or makerspace, check out these resources:
   - **[MIT Full STEAM Ahead](https://fullsteam.mit.edu/){:target="_blank"}**: This website was put together in response to the increased virtual and online teaching happening during the COVID-19 pandemic. It includes activity guides, videos from MIT scientists and researchers, and strategies for educators.
