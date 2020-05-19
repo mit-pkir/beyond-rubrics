@@ -50,11 +50,10 @@ Pick one of the activities or lessons you are planning to facilitate in the next
 **Tool Remix and Modification Examples**
 Explore the Teacher Guides for each tool included in the toolkit for suggested remixes or modifications that have been tried in other classrooms. The modifications vary from minor modifications to full redesign of tools:
 
-| 6Remix | Description |
-|---------------|-----|
+|-------------------------------|-----|
 ![](https://playfulmit.github.io/beyond-rubrics/img/remix-1.png) | **Incorporate into an existing protocol.** Include definitions of constructs and and documentation tools into a “Lab Notebook” or “Design Journal” you already use to support project based work.
 ![](https://playfulmit.github.io/beyond-rubrics/img/remix-2.png) | **Small remix.** Add sentence stems to Sparkle Sleuth slips based on your classroom’s understanding of a competency to help teachers and students better identify moments.
 ![](https://playfulmit.github.io/beyond-rubrics/img/remix-3.png) | **Tool redesign.** Maker Moments allows participants to quickly document an instance of a construct, but doesn’t collect any qualitative information. This “Maker Punch Card” takes the mechanic from Maker Moments but adds the opportunity to capture qualitative information for some instances.
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 
 
 If you try something that works well in your learning community, share it with us!
