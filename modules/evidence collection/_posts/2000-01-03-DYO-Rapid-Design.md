@@ -50,6 +50,8 @@ Pick one of the activities or lessons you are planning to facilitate in the next
 **Tool Remix and Modification Examples**
 Explore the Teacher Guides for each tool included in the toolkit for suggested remixes or modifications that have been tried in other classrooms. The modifications vary from minor modifications to full redesign of tools:
 
+change the page!
+
 ![](https://playfulmit.github.io/beyond-rubrics/img/remix-1.png)
 **Incorporate into an existing protocol.** Include definitions of constructs and and documentation tools into a “Lab Notebook” or “Design Journal” you already use to support project based work. This page also asks students to make notes on evidence of the Maker Moment right on the page.
 
