@@ -31,7 +31,7 @@ This activity will introduce you to the design principles that we used in the cr
 
 **Assessment Design Principles Jigsaw**
 1. Watch the following video as a group:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ymL9SyLbFyQ" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ymL9SyLbFyQ" frameborder="0" allowfullscreen="" text-align: center></iframe>
 
 2. If working with a larger group, form small groups of 4 people each. Each participation should take *one* of the design principles.
 3. Explore your design principle *(5-10 min)*. Individually, read about your chosen design principle. As you read, consider the following questions:
