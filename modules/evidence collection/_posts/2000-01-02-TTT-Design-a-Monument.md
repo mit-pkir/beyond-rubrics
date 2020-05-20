@@ -2,7 +2,7 @@
 **Guiding Questions:**
  - How can we implement documentation during a maker activity?
 
-**Activity Duration:** 1-1.5 hour
+**Activity Duration:** 1-1.5 hours
 
 The Beyond Rubrics Toolkit contains a set of different tools to support a classroom culture of documentation and evidence collection. Evidence collection should be varied, and allow you to see Maker Elements, or constructs, in different ways, to capture a rich picture of your students' process. The Beyond Rubrics Toolkit contains a set of tools that collect evidence in a variety of formats, see individual tools teacher guides for more information on the type of evidence a tool will collect. This activity will give you experience with three different data collection tools:
 
@@ -57,12 +57,12 @@ For this activity, we will focus on two Maker Elements, which you discussed duri
 1. Review the evidence *(5 min)*: In small groups, look at the evidence you have collected from all of the different tools. What does the collective set of evidence tell you about your process or your learning?
 2. Full group discussion *(10 min)*: What can your small group say about your process, or your learning from the evidence?
 3. Planning for next steps *(10 min)*:
-  - Individually journal:
-    - What about using Beyond Rubrics Evidence Collection tools in your classroom or program excites you?
-    - What makes you nervous? What support will you need?
-  - With a partner:
-    - Share what you journaled about.
-    - How might you support each other to implement Evidence Collection in your classroom or programs?
+- Individually journal:
+  - What about using Beyond Rubrics Evidence Collection tools in your classroom or program excites you?
+  - What makes you nervous? What support will you need?
+- With a partner:
+  - Share what you journaled about.
+  - How might you support each other to implement Evidence Collection in your classroom or programs?
 
 ***
 

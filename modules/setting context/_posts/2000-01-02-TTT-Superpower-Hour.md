@@ -49,12 +49,12 @@ When leading this activity in your classroom, you will want to tailor the compet
   - When is a time that you used one of these Maker Elements?
   - When have you seen your students demonstrate these Maker Elements?
 5. Planning for next steps *(10 min)*:
-  - Individually journal:
-    - What about Superpower Hour and Setting Context around maker skills with your students excites you?
-    - What makes you nervous? What support will you need?
-  - With a partner:
-    - Share what you journaled about.
-    - How might you support each other to implement Setting Context in your classroom or programs?
+- Individually journal:
+  - What about Superpower Hour and Setting Context around maker skills with your students excites you?
+  - What makes you nervous? What support will you need?
+- With a partner:
+  - Share what you journaled about.
+  - How might you support each other to implement Setting Context in your classroom or programs?
 
 ***
 
