@@ -36,7 +36,7 @@ Here is an example of what your whiteboard will look like after this step:
   - White board, flipchart, or shared virtual collaboration space (Google Slides virtual collaboration template)
   - Printed versions of outside frameworks (optional)
   - Your maker program values (optional)
-  - Your school/district’s Graduate Profile or Profile of a Learner (optional, [find a sample here](https://drive.google.com/open?id=1QD6iWzqKG_sRaDo5aIr0aX5AeQd45fmO){:target="_blank"})
+  - Your school/district’s Graduate Profile or Profile of a Learner (optional, use [this example](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MURSDProfile.png){:target="_blank"} from the Mendon-Upton Regional School District.)
 
 - **Assign Roles:**
   - *Facilitator:* Will guide participants through the steps in the protocol, should review entire protocol before group meets.
@@ -61,7 +61,7 @@ Here is an example of what your whiteboard will look like after this step:
 
 #### Tips
 
-- We have included a [sample portrait of a learner] from the Mendon-Upton Regional School District (https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MURSDProfile.png){:target="_blank"} as an example of district level values. You may substitute a similar framework from your school or district if it is available.
+- We have included a [sample portrait of a learner](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MURSDProfile.png){:target="_blank"} from the Mendon-Upton Regional School District as an example of district level values. You may substitute a similar framework from your school or district if it is available.
 - The number of ideas selected by each person may vary, but aim to have no more than 20 items across your entire group. For example, if you have 4 people, aim for ~4-6 ideas per person.
 
 **Cluster** *(10-15 min)*

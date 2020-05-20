@@ -32,7 +32,7 @@ In this activity you will have the opportunity to try out the Beyond Rubrics des
 **Rapid Design** *(50 min)*
 1. Draw one card from each of the three decks: Construct, Context, Secret Ingredient.
 2. *Design (30 min)*. Work together to create a prototype of a maker activity and data collection tool. Document your design onto a poster that includes:
-  - **Your definition of the construct or skill. How did you define the construct?
+  - **Your definition of the construct or skill.** How did you define the construct?
   - **The maker activity or task**. What are you asking the students to do to demonstrate the construct?
   - **Example of good evidence of learning**. What will you see that shows you the students are demonstrating the construct or school?
   - **A tool or mechanism for collecting evidence**. How will you collect visible, tangible evidence?
@@ -44,7 +44,7 @@ In this activity you will have the opportunity to try out the Beyond Rubrics des
   - How did you decide what good evidence of learning for your construct looked like? What is good evidence?
   - What are changes you could make to the activities you facilitate to allow students to show evidence of learning? How will you capture that evidence?
 
-*The card mechanic was inspired by the co-design practices of the [IDeATe Network at Carnegie Mellon University](https://ideate.cmu.edu/).*
+*The card mechanic was inspired by the co-design practices of the [IDeATe Network at Carnegie Mellon University](https://ideate.cmu.edu/){:target="_blank"}.*
 
 ***
 
@@ -52,6 +52,7 @@ In this activity you will have the opportunity to try out the Beyond Rubrics des
 - Pick one of the activities or lessons you are planning to facilitate in the next month. What is one tool you could remix or modify from the Beyond Rubrics Toolkit or your designs today that you could implement in your makerspace or classroom?
 
 **Tool Remix and Modification Examples**
+
 Explore the Teacher Guides for each tool included in the toolkit for suggested remixes or modifications that have been tried in other classrooms. The modifications vary from minor modifications to full redesign of tools:
 
 
