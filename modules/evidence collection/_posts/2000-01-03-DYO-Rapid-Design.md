@@ -27,19 +27,17 @@ In this activity you will have the opportunity to try out the Beyond Rubrics des
 
 ### Facilitation Guide
 **Warm-up** *(10 min)*
-- Go around the circle and share: What is one learning experience from your childhood, in or out of school, that you remember fondly? What was it about the experience that made it stick with you?
+1. Go around the circle and share: What is one learning experience from your childhood, in or out of school, that you remember fondly? What was it about the experience that made it stick with you?
 
-**Rapid Design** *(40 min)*
-- Draw one card from each of the three decks: Construct, Context, Secret Ingredient.
-- *Design (30 min)*. Work together to create a prototype of a maker activity and data collection tool. Document your design onto a poster that includes:
- - **Your definition of the construct or skill. How did you define the construct?
- - **The maker activity or task**. What are you asking the students to do to demonstrate the construct?
- - **Example of good evidence of learning**. What will you see that shows you the students are demonstrating the construct or school?
- - **A tool or mechanism for collecting evidence**. How will you collect visible, tangible evidence?
-- *Gallery Walk (10 min):* If multiple teams were designing at the same time, take a few minutes to look at all of the prototypes that were designed. What do you notice? What do you wonder?
-
-**Debrief** *(10 min)*
--Discuss:
+**Rapid Design** *(50 min)*
+1. Draw one card from each of the three decks: Construct, Context, Secret Ingredient.
+2. *Design (30 min)*. Work together to create a prototype of a maker activity and data collection tool. Document your design onto a poster that includes:
+  - **Your definition of the construct or skill. How did you define the construct?
+  - **The maker activity or task**. What are you asking the students to do to demonstrate the construct?
+  - **Example of good evidence of learning**. What will you see that shows you the students are demonstrating the construct or school?
+  - **A tool or mechanism for collecting evidence**. How will you collect visible, tangible evidence?
+3. *Gallery Walk (10 min):* If multiple teams were designing at the same time, take a few minutes to look at all of the prototypes that were designed. What do you notice? What do you wonder?
+4. Debrief as a group with the following questions:
   - What in the designs stands out to you?
   - What was easy about this design process? What was hard?
   - What were characteristics of the activity you designed that allowed for students to demonstrate evidence of your selected construct?

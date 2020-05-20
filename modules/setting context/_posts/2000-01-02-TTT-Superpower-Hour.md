@@ -31,24 +31,24 @@ When leading this activity in your classroom, you will want to tailor the compet
   - *Time-keeper:* Will keep track of time for each step in the process.
 
 ### Facilitation Guide
-1. **Warm-up** *(10 min)*
-- Each person in the group should think of 1-3 household inventions (appliance, tool, object), write them on individual slips of paper and put them into a basket or cup. Think broadly about inventions, including high-tech tools such as your smartphone, laptop, and the internet but also paperclips, bar codes, or doorknobs.
-- The first person takes the basket, and randomly selects one of the items.
-- Read it to yourself and without words, act it out for the rest of your group to guess.
-- Once someone guesses correctly, pass the basket to the next person and continue till everyone has had a chance to act or until the basket is empty.
+**Warm-up** *(10 min)*
+1. Each person in the group should think of 1-3 household inventions (appliance, tool, object), write them on individual slips of paper and put them into a basket or cup. Think broadly about inventions, including high-tech tools such as your smartphone, laptop, and the internet but also paperclips, bar codes, or doorknobs.
+2. The first person takes the basket, and randomly selects one of the items.
+3. Read it to yourself and without words, act it out for the rest of your group to guess.
+4. Once someone guesses correctly, pass the basket to the next person and continue till everyone has had a chance to act or until the basket is empty.
 
-2. **Maker Superpowers** *(50 min)*
-- Pick one of the inventions from the basket and have a short conversation *(5 min)*:
+**Maker Superpowers** *(50 min)*
+1. Pick one of the inventions from the basket and have a short conversation *(5 min)*:
   - What special skills or mindsets did the person or team who invented it have?
   - Referring to the Maker Elements posters for **Social Scaffolding** & **Troubleshooting**, how might these skills have been used in developing the invention?
-- Now watch the story of [Victoria Velez, biomedical engineer](https://youtu.be/kcAJKLOdrB4){:target="_blank"} As you watch, write down examples of the two Maker Elements that you hear in Victoria’s story. *(5 min)*
-- As a small group, or working individually, create a superhero cape for Victoria. The cape should represent how Victoria uses Social Scaffolding & Troubleshooting. *(15 min)*
-- Share your capes with the group, and discuss *(15 min)*:
+2. Now watch the story of [Victoria Velez, biomedical engineer](https://youtu.be/kcAJKLOdrB4){:target="_blank"} As you watch, write down examples of the two Maker Elements that you hear in Victoria’s story. *(5 min)*
+3. As a small group, or working individually, create a superhero cape for Victoria. The cape should represent how Victoria uses Social Scaffolding & Troubleshooting. *(15 min)*
+4. Share your capes with the group, and discuss *(15 min)*:
   - What is similar about the different capes? What is different?
   - What do the capes say about the group’s idea about the Maker Elements?
   - When is a time that you used one of these Maker Elements?
   - When have you seen your students demonstrate these Maker Elements?
-- Planning for next steps *(10 min)*:
+5. Planning for next steps *(10 min)*:
   - Individually journal:
     - What about Superpower Hour and Setting Context around maker skills with your students excites you?
     - What makes you nervous? What support will you need?

@@ -20,12 +20,12 @@ For this activity, we will focus on two Maker Elements, which you discussed duri
 **Collect the following materials:**
 - Writing & drawing tools
 - Scissors
-- Tape or Glue
+- Tape, Glue, and/or Hot Glue Guns
 - Craft or recycled materials to construct monuments. (Whatever materials you have on hand will work, consider feathers, felt, clean yogurt containers, natural materials.)
 - Prepared assessment tools, available for download with full Teachers Guides here:
- - [Sparkle Sleuth Slips](https://playfulmit.github.io/beyond-rubrics/modules/evidence collection/resources/SparkleSleuth.pdf){:target="_blank"} on a clipboard
- - [Maker Moments](https://playfulmit.github.io/beyond-rubrics/modules/evidence collection/resources/MakerMoments.pdf){:target="_blank"}: 1 per group of 3-4 participants
- - [Documentation Tip Jar](https://playfulmit.github.io/beyond-rubrics/modules/evidence collection/resources/DocumentationPromptJar.pdf){:target="_blank"}: prompts printed, cut, and in a container.
+  - [Sparkle Sleuth Slips](https://playfulmit.github.io/beyond-rubrics/modules/evidence collection/resources/SparkleSleuth.pdf){:target="_blank"} on a clipboard
+  - [Maker Moments](https://playfulmit.github.io/beyond-rubrics/modules/evidence collection/resources/MakerMoments.pdf){:target="_blank"}: 1 per group of 3-4 participants
+  - [Documentation Tip Jar](https://playfulmit.github.io/beyond-rubrics/modules/evidence collection/resources/DocumentationPromptJar.pdf){:target="_blank"}: prompts printed, cut, and in a container.
 
 **Assign Roles:**
 - *Facilitator:* Will guide participants through the steps in the process.
@@ -33,38 +33,36 @@ For this activity, we will focus on two Maker Elements, which you discussed duri
 
 ### Facilitation Guide
 **Warm-Up** *(10 min)*
-- *Check in with your group*: Who was your hero or mentor when you were growing up?
+1. *Check in with your group*: Who was your hero or mentor when you were growing up?
 
 **Tool Jigsaw** *(15 min)*
 *If this activity is with a small group of 3-4 teachers, you may complete this step together. For larger groups, split into small groups of 3 participants each.*
-- Review Tool Teachers Guides *(5 min)*: Each participant in a small group should select one of the three tool guides for the evidence collection tools we will use during the workshop. Each participant will be responsible for explaining how to implement their tool to the group.
-- Jigsaw *(10 min)*: In your small groups, take turns explaining the tool you just read about. Be sure to include:
- - What contexts is this tool particularly suited for?
- - How is this tool implemented during a class period?
+1. Review Tool Teachers Guides *(5 min)*: Each participant in a small group should select one of the three tool guides for the evidence collection tools we will use during the workshop. Each participant will be responsible for explaining how to implement their tool to the group.
+2. Jigsaw *(10 min)*: In your small groups, take turns explaining the tool you just read about. Be sure to include:
+  - What contexts is this tool particularly suited for?
+  - How is this tool implemented during a class period?
 
 **Design a Tribute** *(40 min)*
 *You will now complete a making activity. You will want to stay in small groups of 3-4 participants. There are two special roles for this portion of the activity:*
- - *Sparkle Sleuth* This person will take on the role of giving Sparkle Sleuths to colleagues. The will act as an observer during the making process, rather than participating in the making. You will need just 1-2 Sleuth for all of the participating groups.
- - *Moment Marker:* While not the only person who can make marks on the Maker Moments card, this person will take the lead in keeping an eye out for instances of Social Scaffolding & Troubleshooting. You will need one person filling this role in each of the small groups.
+- *Sparkle Sleuth* This person will take on the role of giving Sparkle Sleuths to colleagues. The will act as an observer during the making process, rather than participating in the making. You will need just 1-2 Sleuth for all of the participating groups.
+- *Moment Marker:* While not the only person who can make marks on the Maker Moments card, this person will take the lead in keeping an eye out for instances of Social Scaffolding & Troubleshooting. You will need one person filling this role in each of the small groups.
 
-- *Distribute Evidence Collection Tools:* Each team will need 1 Maker Moments card, the Sparkle Sleuth will need the clipboard with Sleuth Slips, and the Documentation Tip Jar can be placed next to the making materials.
-- *Make!* *(20-25 min)*: Your team is offered a unique opportunity to design and create a tribute to a famous figure--past or present, real or fictional. You get to choose whom to honor, how to honor them, and what to create.
-
-*The tribute -- which can take the shape of a poem, monument, statue, museum, anything! -- must be on public display and withstand any outdoor elements (rain, wind, varying temperatures, etc). It should also be designed and secured in a way that it can’t be stolen.
-With your team, make a physical prototype in 20 minutes!*
-- Pause! After 10 minutes of making, all groups should pause. Draw one of the documentation prompts from the jar, and complete. All groups should take a moment to make sure they are filling out their Maker Moments. Then, continue making for an additional 10 minutes.
-- *Share Tributes (5-10 min):* Each group should share their creation. If you are in a large room with many groups, take a tour of the tributes. Everyone should gather around each table to hear about the creation, before moving on to the next.
+1. *Distribute Evidence Collection Tools:* Each team will need 1 Maker Moments card, the Sparkle Sleuth will need the clipboard with Sleuth Slips, and the Documentation Tip Jar can be placed next to the making materials.
+2. *Make!* *(20-25 min)*: Your team is offered a unique opportunity to design and create a tribute to a famous figure--past or present, real or fictional. You get to choose whom to honor, how to honor them, and what to create.
+  - *The tribute -- which can take the shape of a poem, monument, statue, museum, anything! -- must be on public display and withstand any outdoor elements (rain, wind, varying temperatures, etc). It should also be designed and secured in a way that it can’t be stolen. With your team, make a physical prototype in 20 minutes!*
+3. Pause! After 10 minutes of making, all groups should pause. Draw one of the documentation prompts from the jar, and complete. All groups should take a moment to make sure they are filling out their Maker Moments. Then, continue making for an additional 10 minutes.
+4. *Share Tributes (5-10 min):* Each group should share their creation. If you are in a large room with many groups, take a tour of the tributes. Everyone should gather around each table to hear about the creation, before moving on to the next.
 
 **Debrief** *(25 min)*
-- Review the evidence *(5 min)*: In small groups, look at the evidence you have collected from all of the different tools. What does the collective set of evidence tell you about your process or your learning?
-- Full group discussion *(10 min)*: What can your small group say about your process, or your learning from the evidence?
-- Planning for next steps *(10 min)*:
- - Individually journal:
-  - What about using Beyond Rubrics Evidence Collection tools in your classroom or program excites you?
-  - What makes you nervous? What support will you need?
- - With a partner:
-  - Share what you journaled about.
-  - How might you support each other to implement Evidence Collection in your classroom or programs?
+1. Review the evidence *(5 min)*: In small groups, look at the evidence you have collected from all of the different tools. What does the collective set of evidence tell you about your process or your learning?
+2. Full group discussion *(10 min)*: What can your small group say about your process, or your learning from the evidence?
+3. Planning for next steps *(10 min)*:
+  - Individually journal:
+    - What about using Beyond Rubrics Evidence Collection tools in your classroom or program excites you?
+    - What makes you nervous? What support will you need?
+  - With a partner:
+    - Share what you journaled about.
+    - How might you support each other to implement Evidence Collection in your classroom or programs?
 
 ***
 

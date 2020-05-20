@@ -50,14 +50,14 @@ Here is an example of what your whiteboard will look like after this step:
 
 ### Facilitation Guide
 **Warm-up** *(5 min)*
-- *Check in with your group*: Go around the circle and share a time that you have used the construct. What were you working on? What did it look like to use the construct?
+1. *Check in with your group*: Go around the circle and share a time that you have used the construct. What were you working on? What did it look like to use the construct?
 
 **Brainstorm** *(25 min)*
 *You will now individually brainstorm answers to the Focus Question. You will draw ideas from three different sources: [1] Your own values as an educator and vision of student success, [2] Your school or district’s values and competencies, and [3] Outside frameworks and research.*
-- *Individual Brainstorming Part 1* (5 min): Return to the external framework you reviewed before the session and your district or school values and competencies you. Brainstorm a list of answers to the focus question based on these frameworks. Each answer should be a short, single sentence. if the chosen construct was Agency, one of your answers might be “Setting your own goals.” or “Seeking out relevant resources to solve a problem.” Try to have 5+ ideas.
-- *Individual Brainstorming Part 2* (5 min): Now add answers to your list based on your own values and vision of student success. Each idea should still be a short, single sentence that answers the focus question. Try to come up with at least 5 more ideas.
-- *Select your best ideas* (5 min): Again, individually, review all of the answers on your list. Select the ones that are the clearest, and most connect to your values, district values, or outside frameworks. Rephrase these ideas into clear, 3-10 word sentences or phrases.
-- *Share the ideas* (10 min): Go around the circle, with each person sharing one of their ideas. Record each idea in a list on your whiteboard. Number each item for easy identification. Continue until all ideas have been shared and recorded.
+1. *Individual Brainstorming Part 1* (5 min): Return to the external framework you reviewed before the session and your district or school values and competencies you. Brainstorm a list of answers to the focus question based on these frameworks. Each answer should be a short, single sentence. if the chosen construct was Agency, one of your answers might be “Setting your own goals.” or “Seeking out relevant resources to solve a problem.” Try to have 5+ ideas.
+2. *Individual Brainstorming Part 2* (5 min): Now add answers to your list based on your own values and vision of student success. Each idea should still be a short, single sentence that answers the focus question. Try to come up with at least 5 more ideas.
+3. *Select your best ideas* (5 min): Again, individually, review all of the answers on your list. Select the ones that are the clearest, and most connect to your values, district values, or outside frameworks. Rephrase these ideas into clear, 3-10 word sentences or phrases.
+4. *Share the ideas* (10 min): Go around the circle, with each person sharing one of their ideas. Record each idea in a list on your whiteboard. Number each item for easy identification. Continue until all ideas have been shared and recorded.
 
 #### Tips
 
@@ -66,15 +66,15 @@ Here is an example of what your whiteboard will look like after this step:
 
 **Cluster** *(10-15 min)*
 *Find the overlaps and similarities between the different ideas generated.*
-- Give the first item a symbol, write it next to it’s number. (✩, △, ≡, ♯, ○, etc.)
-- Ask if the 2nd item is the same or similar to the first. If it is, draw the same symbol. If not, write a different symbol beside it.
-- Continue through the list, categorizing each with a symbol. Some items may have more than one symbol.
-- Continue until all items have a symbol.
+1. Give the first item a symbol, write it next to it’s number. (✩, △, ≡, ♯, ○, etc.)
+2. Ask if the 2nd item is the same or similar to the first. If it is, draw the same symbol. If not, write a different symbol beside it.
+3. Continue through the list, categorizing each with a symbol. Some items may have more than one symbol.
+4. Continue until all items have a symbol.
 
 **Name** *(10-15 min)*
 *The names for each cluster should provide different answers to the focus question, and provide different ways a student might demonstrate the selected construct, or indicators of the construct. They should be specific, observable, and represent the ideas from your brainstormed list.*
-- Draw all of your symbols in a column next to your list.
-- Read through all of the list items with the first symbol. What should that group be named? To come up with a name, the facilitator might ask the following questions:
+1. Draw all of your symbols in a column next to your list.
+2. Read through all of the list items with the first symbol. What should that group be named? To come up with a name, the facilitator might ask the following questions:
  - What one sentence or phrase will be most descriptive of all ideas in this cluster?
  - What title will be inclusive of all insights represented by the ideas?
  - What is our insight, or answer to the focus question being pointed to by the ideas in the cluster?
@@ -83,11 +83,11 @@ Here is an example of what your whiteboard will look like after this step:
 
 **Resolve** *(5-10 min)*
 *Review and reflect on your work.*
-- Read through all of the named groups out loud. Together, it should represent a shared understanding of the construct, with individual things you might see a student do to demonstrate the selected construct.
-- Discuss the results:
+1. Read through all of the named groups out loud. Together, it should represent a shared understanding of the construct, with individual things you might see a student do to demonstrate the selected construct.
+2. Discuss the results:
  - What on the list are you most excited about or intrigued by? Are you uneasy or uncomfortable about anything on the list?
  - What new insights do you have about the selected construct? Has anything been left out?
-- Determine next steps. See suggestions below.
+3. Determine next steps. See suggestions below.
 
 *This protocol was adapted from the [ToP Consensus Workshop Process](http://www.ica-international.org/top-facilitation/){:target="_blank"} from ICA International.*
 

@@ -31,22 +31,23 @@ This activity will introduce you to the design principles that we used in the cr
 2. Share your reflections in the group.
 
 **Assessment Design Principles Jigsaw** *(50min)*
-3. Watch the following video as a group:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ymL9SyLbFyQ" frameborder="0" allowfullscreen=""></iframe>
 
-4. Each participant should take *one* of the Beyond Rubrics design principles articles. If working with a larger group, form small groups of 4 people each.
-5. Explore your design principle *(5-10 min)*. Individually, read about your chosen design principle. As you read, consider the following questions:
+1. Watch the *Beyond Rubrics: Design Principles* video as a group.
+2. Each participant should take *one* of the Beyond Rubrics design principles articles. If working with a larger group, form small groups of 4 people each.
+3. Explore your design principle *(5-10 min)*. Individually, read about your chosen design principle. As you read, consider the following questions:
   - What is the principle?
   - What reaction do you have to the principle?
   - How does it relate to your current assessment values? How does it relate to your current assessment practices?
-6. Share about your design principle *(10 min)*. Regroup with colleagues. Go around the circle and share about the individual design principles. Continue around the circle until everyone has shared.
-7. Discuss with colleagues *(20 min)*:
+4. Share about your design principle *(10 min)*. Regroup with colleagues. Go around the circle and share about the individual design principles. Continue around the circle until everyone has shared.
+5. Discuss with colleagues *(20 min)*:
  - What stood out to you in the principles and examples provided?
  - What resonated with your own views on assessment? What was challenging?
  - As a whole, how do these principles relate to your current assessment *values*?
  - How do these principles relate to your current assessment *practices*? (You may choose to rank the principles from the ones you do most consistently to the least.
  - If they are not in line, how might you bring your assessment *values* and *practices* more in line with each other?
-8. Closing Reflection *(10 min)*, As a full group, go around the circle and share a Monday and Someday for these design principles:
+6. Closing Reflection *(10 min)*, As a full group, go around the circle and share a Monday and Someday for these design principles:
   - Monday: What is one thing you could try tomorrow (or on Monday) to try this principle in your classroom, school, or learning community.
   - Someday: What would it look like to fully design your classroom, school, or learning community using this design principle.
 
