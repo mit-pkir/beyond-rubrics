@@ -41,7 +41,7 @@ When leading this activity in your classroom, you will want to tailor the compet
 1. Pick one of the inventions from the basket and have a short conversation *(5 min)*:
   - What special skills or mindsets did the person or team who invented it have?
   - Referring to the Maker Elements posters for **Social Scaffolding** & **Troubleshooting**, how might these skills have been used in developing the invention?
-2. Now watch the story of [Victoria Velez, biomedical engineer](https://youtu.be/kcAJKLOdrB4){:target="_blank"} As you watch, write down examples of the two Maker Elements that you hear in Victoria’s story. *(5 min)*
+2. Now watch the story of [Victoria Velez, biomedical engineer](https://youtu.be/kcAJKLOdrB4){:target="_blank"}. As you watch, write down examples of the two Maker Elements that you hear in Victoria’s story.
 3. As a small group, or working individually, create a superhero cape for Victoria. The cape should represent how Victoria uses Social Scaffolding & Troubleshooting. *(15 min)*
 4. Share your capes with the group, and discuss *(15 min)*:
   - What is similar about the different capes? What is different?

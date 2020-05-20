@@ -17,7 +17,7 @@ Here is an example of what your whiteboard will look like after this step:
 ***
 
 ### Before gathering
-- Choose which construct (maker skill or disposition) your group will focus on. *Participants will need to know the construct to review (We recommend using **Collaboration** or **Problem Solving** for this exercise.)*
+- Choose which constructs (maker skill or disposition) your group will focus on. We recommend using **Collaboration** or **Problem Solving** for this exercise.
 
 - Select an External Framework. *Each participant should select a different external framework. Participants should review the framework and write down notes on how the framework addresses the selected construct before the gathering.*
   - [CASEL SEL Competencies](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/CASEL-Competencies.pdf){:target="_blank"}
