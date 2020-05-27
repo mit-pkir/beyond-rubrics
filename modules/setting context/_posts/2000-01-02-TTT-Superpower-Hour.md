@@ -24,7 +24,7 @@ When leading this activity in your classroom, you will want to tailor the compet
   - Fabric or Felt
   - Other craft materials to create capes
   - Stuffed animals or puppets to wear the capes (optional)
-  - [Maker Element Posters](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MakerElements_SuperpowerHour.pdf){:target="_blank"}.
+  - [Maker Element Posters](https://playfulmit.github.io/beyond-rubrics/modules/setting%20context/resources/MakerElements_SuperpowerHour.pdf){:target="_blank"}
 
 - **Assign Roles:**
   - *Facilitator:* Will guide participants through the steps in the process.
