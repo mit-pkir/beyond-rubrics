@@ -11,7 +11,7 @@ This guide will introduce educators to the tools and design principles in the Be
 
 We look forward to seeing how you remix and adapt these tools and design new ways to better capture the learning in your classroom or program!
 
--> [<button name="start">Get Started</button>](https://playfulmit.github.io/beyond-rubrics/modules/introduction/Welcome/) <-
+->[<button name="start">Get Started</button>](https://playfulmit.github.io/beyond-rubrics/modules/introduction/Welcome/)<-
 
 Please, share your explorations with us on twitter!
 ### [@playfulMIT](https://twitter.com/playfulMIT){:target="_blank"}  |  [@MakerEdOrg](https://twitter.com/MakerEdOrg){:target="_blank"}  |  #beyondrubrics
