@@ -18,7 +18,7 @@
 
 ![MIT J-WEL](https://playfulmit.github.io/beyond-rubrics/img/jwel-logo.png)
 
-[**MIT Abdul Latif Jameel World Education Lab (J-WEL)**](https://jwel.mit.edu/){:target="_blank"}: An initiative of MIT and Community Jameel, J &#8209 WEL works with member organizations to promote excellence and transformation in education at MIT and worldwide. J {&#8209} WEL engages educators, technologists, policymakers, societal leaders, employers, and employees through online and in-person collaborations, workshops, research, and information-sharing events. J&#8209WEL member organizations work with MIT faculty and staff to address global opportunities for scalable change in education. Funding from J&#8209WEL supported the development of the Designing for Documentation & Assessment Learning Guide.
+[**MIT Abdul Latif Jameel World Education Lab (J&#8209;WEL)**](https://jwel.mit.edu/){:target="_blank"}: An initiative of MIT and Community Jameel, J&#8209;WEL works with member organizations to promote excellence and transformation in education at MIT and worldwide. J&#8209;WEL engages educators, technologists, policymakers, societal leaders, employers, and employees through online and in-person collaborations, workshops, research, and information-sharing events. J&#8209;WEL member organizations work with MIT faculty and staff to address global opportunities for scalable change in education. Funding from J&#8209;WEL supported the development of the Designing for Documentation & Assessment Learning Guide.
 
 
 ![National Science Foundation](https://playfulmit.github.io/beyond-rubrics/img/nsf-logo.png)
