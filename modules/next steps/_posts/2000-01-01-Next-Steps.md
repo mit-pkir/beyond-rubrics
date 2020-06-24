@@ -14,6 +14,6 @@ Or drop us a [note on our website.](https://playful.mit.edu/connect){:target="_b
 
 ### Related Assessment Projects to Explore:
 
-- [The Open Portfolio Project](https://makered.org/opp/overview/){:target="_blank"}: This collaboration between Maker Ed and Indiana University’s Creativity Labs aims to develop a common framework for documenting, sharing and assessing learning through portfolios.
+- [The Open Portfolio Project](https://makered.org/opp/overview/){:target="_blank"}: This collaboration between Maker Ed and Indiana University’s Creativity Labs aims to develop a common framework for documenting, sharing, and assessing learning through portfolios.
 
 - [MetaRubric](https://playful.mit.edu/projects/metarubric/){:target="_blank"}: This playful learning experience is designed to show how complex, and even fun, assessment can be. You will create a creative project and a rubric with colleagues while discussing how you might best design rubrics to assess creative, original projects.
