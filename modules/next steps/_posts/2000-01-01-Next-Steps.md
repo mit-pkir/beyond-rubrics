@@ -17,3 +17,5 @@ Or drop us a [note on our website.](https://playful.mit.edu/connect){:target="_b
 - [The Open Portfolio Project](https://makered.org/opp/overview/){:target="_blank"}: This collaboration between Maker Ed and Indiana University’s Creativity Labs aims to develop a common framework for documenting, sharing, and assessing learning through portfolios.
 
 - [MetaRubric](https://playful.mit.edu/projects/metarubric/){:target="_blank"}: This playful learning experience is designed to show how complex, and even fun, assessment can be. You will create a creative project and a rubric with colleagues while discussing how you might best design rubrics to assess creative, original projects.
+
+- [Assessing Creativity in Computing Classrooms](https://creativecomputing.gse.harvard.edu/assessment/){:target="_blank"}: This report from the Creative Computing Lab at Harvard Graduate School of Education includes four case studies and 50 assessments drawn from interviewing 80 PK-12 teachers across the US. It provides perspectives on how to assess creative work and contains design principles which are useful for maker-centered learning as well.
