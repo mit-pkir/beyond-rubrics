@@ -24,3 +24,9 @@
 ![National Science Foundation](https://playfulmit.github.io/beyond-rubrics/img/nsf-logo.png)
 
 [**National Science Foundation**](https://nsf.gov/){:target="_blank"}: The National Science Foundation (NSF) is an independent federal agency created by Congress in 1950 “to promote the progress of science; to advance the national health, prosperity, and welfare; to secure the national defense…” The NSF is vital because it supports basic research and people to create knowledge that transforms the future. Development of the Beyond Rubrics toolkit was supported by [The Beyond Rubrics: Moving Towards Embedded Assessment in Maker Education](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1723459&HistoricalAwards=false){:target="_blank"} NSF EAGER grant 1723459 through their Division of Research on Learning under the Education and Human Resources (EHR) area. *Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*
+
+***
+
+![P2PU](https://playfulmit.github.io/beyond-rubrics/img/p2pu-logo.png)
+
+This course was built using [Course in a Box](https://howto.p2pu.org/){:target="_blank"}, a project of [P2PU](https://p2pu.org/){:target="_blank"}.
