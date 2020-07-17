@@ -27,6 +27,4 @@
 
 ***
 
-![P2PU](https://playfulmit.github.io/beyond-rubrics/img/p2pu-logo.png)
-
-This course was built using [Course in a Box](https://howto.p2pu.org/){:target="_blank"}, a project of [P2PU](https://p2pu.org/){:target="_blank"}.
+![P2PU](https://playfulmit.github.io/beyond-rubrics/img/p2pu-logo.png) This course was built using [Course in a Box](https://howto.p2pu.org/){:target="_blank"}, a project of [P2PU](https://p2pu.org/){:target="_blank"}.
